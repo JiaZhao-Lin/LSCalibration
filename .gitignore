@@ -7,7 +7,7 @@ __pycache__
 .cache
 .ipynb_checkpoints
 
-*.root
+# *.root
 *.txt
 *.dat
 *.pdf
@@ -20,9 +20,7 @@ __pycache__
 *.gz
 Test.*
 test.*
-*.csv
-*.numbers
-.rootlogon.py
+# *.csv
 
 ##############################################
 ## ROOT Compiled files
